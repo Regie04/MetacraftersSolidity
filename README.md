@@ -58,6 +58,10 @@ contract MyToken {
 ```
 * Incorrect solidity version.
 ```
+pragma solidity 0.8.18;
+```
+* Correct solidity version.
+```
 pragma solidity 0.8.26;
 ```
 
